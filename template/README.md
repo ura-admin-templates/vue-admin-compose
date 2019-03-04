@@ -1,6 +1,6 @@
-# vue admin nav
+# {{ name }}
 
-> a admin template
+> {{ description }}
 
 ## Project setup
 ```
